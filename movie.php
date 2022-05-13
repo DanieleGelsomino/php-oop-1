@@ -17,5 +17,12 @@ class Movie {
 
     }
 
+    // aggiungo un metodo per tagliare una parte di stringa nella overview
+
+    public function getOverviewCutted($lenght = 100){
+        return substr($this->overview, 0, $lenght)."...";
+      }
+    
+
 }
 ?>

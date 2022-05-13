@@ -18,7 +18,7 @@ body {
     color: #fff;
     background-color: rgba(0, 0, 0, 0.6);
     backdrop-filter: blur(4px);
-    border-radius: 20px;
+    border-radius: 15px;
     margin: 100px;
     padding: 20px;
 
@@ -29,7 +29,7 @@ body {
     padding: 20px;
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    justify-content: space-around;
     border: 3px solid rgba(255, 255, 255, 0.3);
     width: 24%;
     margin: 5px;
@@ -49,8 +49,8 @@ h4 {
 
 ul {
     list-style-type:none;
-    font-size: 0.7rem
+    font-size: 0.7rem;
 }
 p {
-    font-size: 0.7rem
+    font-size: 0.7rem;
 }
