@@ -13,7 +13,12 @@ include ('template.php');
 ?>
 
 <body>
-<!-- includo il contentuto -->
+<!-- includo l'header -->
+<?php
+include ('header.php');
+?>
+
+<!-- includo il contentuto con i film-->
 <?php
 include ('content_movies.php');
 ?>
