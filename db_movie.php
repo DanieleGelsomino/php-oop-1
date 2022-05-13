@@ -8,7 +8,7 @@ $movies = [
     "year" => "2022",
     "overview" => "Dopo essere atterrato per sbaglio nel 2022, il pilota di caccia Adam Reed fa squadra con una versione dodicenne di se stesso per salvare il futuro.",
     "director" => "Shawn Levy",
-    "cast" => ["Ryan Reynolds", "Mark Ruffalo", "Mark Ruffalo", "Walker Scobell", "Catherine Keener", "Zoe Saldana", "Alex Mallari Jr."]
+    "cast" => ["Ryan Reynolds", "Mark Ruffalo", "Walker Scobell", "Catherine Keener", "Zoe Saldana", "Alex Mallari Jr."]
 ],
 
 [
