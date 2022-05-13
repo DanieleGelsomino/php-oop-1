@@ -7,6 +7,7 @@ class Movie {
     public $overview;
     public $director;
     public $cast;
+    public $poster;
 
     function __construct($_title, $_genre, $_year, $_director) {
 
